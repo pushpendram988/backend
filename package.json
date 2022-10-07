@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpendram988/backend.git"
+  },
+  "author": "shashank/pushpendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushpendram988/backend/issues"
+  },
+  "homepage": "https://github.com/pushpendram988/backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.5"
+  }
+}
